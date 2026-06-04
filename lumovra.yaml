@@ -8,10 +8,13 @@ systems:
           - prompts/**
       - name: hiring-model
         paths:
-          - config/model_config.yaml
+          - config/**
       - name: hiring-eval
         paths:
           - eval/**
+      - name: hiring-training
+        paths:
+          - training/**
       - name: hiring-runtime
         paths:
           - src/**
