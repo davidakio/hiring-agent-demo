@@ -1,6 +1,6 @@
 # Model + inference settings for the Hiring Agent.
 model: gpt-4o-mini
-temperature: 0.2
+temperature: 1.2
 max_tokens: 800
 top_p: 1.0
 # Candidates scoring below this are auto-rejected (subject to the oversight gate).
