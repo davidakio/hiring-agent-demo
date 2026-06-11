@@ -3,7 +3,9 @@
 An AI assistant that screens job applications: it summarizes each candidate's CV,
 scores their fit for a role, and ranks candidates. High-impact decisions (such as
 auto-rejections) pass through a **human-oversight gate**, and every decision is written
-to an **audit log** with a trace id.
+to an **audit log** with a trace id.  
+
+Is this just a readme file that will still generate a recording?  I will commit the changes...
 
 ## Architecture
 
